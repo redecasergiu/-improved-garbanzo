@@ -5,3 +5,5 @@
 [Create a simple data application by using ADO.NET](https://msdn.microsoft.com/en-us/library/jj943772.aspx)
 
 [MySQL C# Tutorial](http://zetcode.com/db/mysqlcsharptutorial/)
+
+[Git simple tutorial](http://rogerdudler.github.io/git-guide/)
