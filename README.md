@@ -4,4 +4,4 @@
 
 [Create a simple data application by using ADO.NET](https://msdn.microsoft.com/en-us/library/jj943772.aspx)
 
-[http://zetcode.com/db/mysqlcsharptutorial/](MySQL C# Tutorial)
+[MySQL C# Tutorial](http://zetcode.com/db/mysqlcsharptutorial/)
